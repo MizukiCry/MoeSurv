@@ -48,7 +48,7 @@ E 开门（鼠标对准状态）
   
   场景中分布有固定的炸弹生成点，随机[5,15]秒后以30%的概率生成炸弹，3秒后爆炸，半径500，基础伤害120，随距离递减，不可穿透。
   
-  <img src="https://pic.mizuki.fun/view/1/Private/Pictures/2022/02/01/33kUT7N0/Moe_Bomb.gif" alt="Moe_Bomb.gif" style="zoom:50%;" />
+  <img title="" src="https://raw.githubusercontent.com/MizukiCry/ImageHosting/master/img/Moe_Bomb.gif" alt="Moe_Bomb.gif" style="zoom:50%;">
 
 - 增益道具
   
@@ -58,25 +58,25 @@ E 开门（鼠标对准状态）
     
     将玩家HP回复至100
     
-    <img src="https://pic.mizuki.fun/view/1/Private/Pictures/2022/02/01/5tWhkywf/Moe_Healer.png" alt="Moe_Healer.png" style="zoom:25%;" />
+    <img title="" src="https://raw.githubusercontent.com/MizukiCry/ImageHosting/master/img/Moe_Healer.png" alt="Moe_Healer.png" style="zoom:25%;">
   
   - Shield
     
     给予玩家额外100点护盾值（上限100）
     
-    <img src="https://pic.mizuki.fun/view/1/Private/Pictures/2022/02/01/NO7jI4mQ/Moe_Shield.png" alt="Moe_Shield.png" style="zoom:25%;" />
+    <img title="" src="https://raw.githubusercontent.com/MizukiCry/ImageHosting/master/img/Moe_Shield.png" alt="Moe_Shield.png" style="zoom:25%;">
   
   - WalkBooster
     
     使玩家移动速度翻倍，持续15秒（可叠加）
     
-    <img src="https://pic.mizuki.fun/view/1/Private/Pictures/2022/02/01/BHzdNABI/Moe_WalkBooster.png" alt="Moe_WalkBooster.png" style="zoom:25%;" />
+    <img title="" src="https://raw.githubusercontent.com/MizukiCry/ImageHosting/master/img/Moe_WalkBooster.png" alt="Moe_WalkBooster.png" style="zoom:25%;">
   
   - JumpBooster
     
     使玩家跳跃高度翻倍，持续15秒（可叠加）
     
-    <img src="https://pic.mizuki.fun/view/1/Private/Pictures/2022/02/01/jY7faES2/Moe_JumpBooster.png" alt="Moe_JumpBooster.png" style="zoom:25%;" />
+    <img title="" src="https://raw.githubusercontent.com/MizukiCry/ImageHosting/master/img/Moe_JumpBooster.png" alt="Moe_JumpBooster.png" style="zoom:25%;">
 
 ---
 
